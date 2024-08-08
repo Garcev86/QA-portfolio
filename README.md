@@ -4,7 +4,13 @@
 
 I'm a dedicated and detail-oriented QA Engineer with a passion for ensuring the highest standards of software quality. My mission is to deliver robust and reliable software solutions by identifying and resolving issues early in the development cycle.
 
-Skills: Manual testing, Mobile testing, Regression & Functional testing, Exploratory testing, Software performance improvement, Defect detection, reporting, Test planning, and execution.
+Skills: 
+- :hand: Manual testing, Regression & Functional testing
+- :iphone: Mobile testing 
+- :mag: Exploratory testing
+- :bug: Bug reporting, Test case creating
+- 🛢SQL, API
+- :page_facing_up: Test planning, and execution.
 
 
 
