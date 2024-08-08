@@ -1,6 +1,6 @@
 Here’s my Mobile bug report using Samsung Test Lab emulator on a demo website SwagLabs.
 
-**Attachment:** [Download Attachment](https://drive.google.com/drive/u/0/folders/1xUD6l0xXnEAigtqNWK27cKYlGfJj_FBt)
+**Attachment:** [Bug report attachment](https://drive.google.com/drive/u/0/folders/1xUD6l0xXnEAigtqNWK27cKYlGfJj_FBt)
 ```
 # Bug Reports
 
