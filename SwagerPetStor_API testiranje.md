@@ -1,8 +1,8 @@
-This document contains ezamples of HTTPS request fo Swagger Pet Stor created using Postman. Link to the Postman kolection is here.
+This document contains an HTTPS request for Swagger Pet Stor created using Postman. The link to the Postman collection is [here](https://web.postman.co/workspace/My-Workspace~c4684732-1604-4aac-889b-5e4de526fb1b/collection/36490374-64645686-06b8-47ad-aac3-ab498bf76462).
 
-### API Documentation in Markdown
 
-```markdown
+
+---
 # Swagger API Documentation
 
 ## Base URL
