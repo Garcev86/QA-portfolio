@@ -7,7 +7,7 @@ Attachment folder link: https://drive.google.com/drive/u/0/folders/18scD6V5ZzTpd
 —-----------------------------------------------------------------------------------------------------------------------
 
 
-Improvement:
+1. Improvement:
 
 Current: When the desired card is opened, there are two scroll bars, it is necessary to scroll several times to display the entire content of the card while moving the first scroll bar and then the second.
 
@@ -18,7 +18,7 @@ Reason: Most websites follow this convention, users are familiar with a single v
 
 —-------------------------------------------------------------------------------------
 
-Improvement:
+2. Improvement:
 
 Current: Currently only the light background theme is on the website.
 
@@ -29,7 +29,7 @@ Reason: Many users find dark themes sleek and visually appealing, dark themes ar
 
 —---------------------------------------------------------------------------------------
 
-Improvement:
+3. Improvement:
 
 Current: On the Main page in the logout container there is no setting option for set and updating the user profile.
 
@@ -40,7 +40,7 @@ Reason: Some users want to update their profile with basic information and their
 —---------------------------------------------------------------------------------------- 
 
 
-Improvement:
+4. Improvement:
 
 Current: The button to close the card is located on the card itself in the upper right corner and is not very visible because of the background color image of the benefit card.
 
@@ -52,7 +52,7 @@ Reason: The user can more easily recognize the close button on the opened card.
 —----------------------------------------------------------------------------------------
 
 
-Improvement:
+5. Improvement:
 
 Current: The subscribe and redeem buttons remain unchanged when hovering over and clicking on them to select a specific benefit card.
 
@@ -64,7 +64,7 @@ Reason: Users receive immediate feedback that their click was registered, and dy
 —----------------------------------------------------------------------------------------
 
 
-Improvement:
+6. Improvement:
 
 Current: The font size of the content on the card headline is 18px, the category tag is 11px, the Rating is 12px, and the button label is 14px.
 
@@ -77,7 +77,7 @@ Reason: Maintaining balanced font sizes and avoiding using too small fonts are b
 
 
 
-Improvement: 
+7. Improvement: 
 
 Current: The search and filter box is located on the right side of the page and cannot be closed or moved to the right side.
 
